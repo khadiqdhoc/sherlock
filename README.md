@@ -195,8 +195,3 @@ list of sites to ignore (one site name per line).
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/sherlock-project/sherlock.svg)](https://starchart.cc/sherlock-project/sherlock)
-
-## License
-
-MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
